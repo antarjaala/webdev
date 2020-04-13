@@ -1,0 +1,15 @@
+.parent{
+    position:absolute;
+    font-size: 40;
+    border: solid aqua;
+    left:30px;
+
+}
+.child-one.child{
+    position: relative;
+    left:30px;
+}
+.child-two.child{
+    position: relative;
+    left:60px;
+}
