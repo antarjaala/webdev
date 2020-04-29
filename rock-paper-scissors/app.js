@@ -56,7 +56,10 @@ function draw(userChoice,computerChoice){
   setTimeout(() => userChoice_div.classList.remove('gray-glow'),300);
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3b2b10c9df8df42803290b978057cd71fc8b8229
 function game(userChoice){
   const computerChoice=getComputerChoice()
   switch (userChoice+computerChoice){
