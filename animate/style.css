@@ -1,0 +1,13 @@
+/* refer https://github.com/daneden/animate.css */
+html { 
+    background: url(sannidhi.JPG) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .san {
+    animation-duration: 1s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+  }

@@ -56,6 +56,7 @@ function draw(userChoice,computerChoice){
   setTimeout(() => userChoice_div.classList.remove('gray-glow'),300);
 }
 
+
 function game(userChoice){
   const computerChoice=getComputerChoice()
   switch (userChoice+computerChoice){
